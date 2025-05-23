@@ -57,4 +57,3 @@ if (arrInvalido.length > 0){
 console.log(arrValido, arrInvalido);
 
 });
-

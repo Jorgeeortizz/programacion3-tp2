@@ -6,3 +6,13 @@
 *input{
     margin: 10px;
 }
+
+#printValido{
+
+    color: green;
+}
+
+#printInvalido {
+
+    color : red;
+}

@@ -1,6 +1,6 @@
 const boton = document.getElementById('boton');
 
-boton.addEventListener('click', () => {
+boton.addEventListener('click',() => {
 
 const peso = document.getElementById('inputPeso').value;
 const estatura = document.getElementById('inputEstatura').value;
